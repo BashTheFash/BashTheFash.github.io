@@ -2,4 +2,4 @@
 BashTheFash Website
 
 
-Big bag of fucking ding dongs
+BASH THE FASH!
