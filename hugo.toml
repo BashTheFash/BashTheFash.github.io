@@ -1,6 +1,6 @@
 baseURL = "https://bashthefash.ninja/"
 languageCode = "en-EN"
-title = "Bash the Fash"
+title = "Bash the Fash!"
 theme = "PaperMod"
 enableInlineShortcodes = true
 enableEmoji = true
